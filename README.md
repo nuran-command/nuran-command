@@ -25,17 +25,11 @@ I am a Backend Developer and Data Engineering enthusiast. I specialize in buildi
 
 ---
 
-### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nuran-command&show_icons=true&theme=tokyonight&hide_border=true" alt="Nurdan's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuran-command&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+### 📊 My GitHub Growth
+[![My Skills](https://skillicons.dev/icons?i=go,py,cpp,java,nodejs,mongodb,postgres,docker,githubactions,linux,apple,vscode,idea,postman&theme=dark)](https://skillicons.dev)
 
-### 🔥 Consistency
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nuran-command&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+### 📈 Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuran-command&show_icons=true&theme=transparent&hide_border=true)
 
 ---
 

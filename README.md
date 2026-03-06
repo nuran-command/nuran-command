@@ -29,8 +29,7 @@ I am a Backend Developer and Data Engineering enthusiast. I specialize in buildi
 [![My Skills](https://skillicons.dev/icons?i=go,py,cpp,java,nodejs,mongodb,postgres,docker,githubactions,linux,apple,vscode,idea,postman&theme=dark)](https://skillicons.dev)
 
 ### 📈 Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuran-command&show_icons=true&theme=transparent&hide_border=true)
-
+![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=nuran-command&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 ---
 
 📫 **Let's connect:** [LinkedIn](your-link-here) | [Email](mailto:your-email@example.com)

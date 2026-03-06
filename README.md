@@ -1,4 +1,8 @@
 <div align="center">
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=200&section=header&text=NURDAN%20&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20|%20System%20Architect&descAlignY=55&descAlign=50" />
+</p>
+  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ADD8&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Nurdan;Backend+Developer;Data+Engineering+Enthusiast;AI+Integration+Specialist" alt="Typing SVG" />
 </div>
 
@@ -42,17 +46,25 @@ I am a Backend Developer and Data Engineering enthusiast based in Astana. I spec
 
 ### 📊 Repository Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nuran-command&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuran-command&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=nuran-command&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=nuran-command&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nuran-command&theme=tokyonight" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=nuran-command&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nuran-command&theme=tokyonight&utcOffset=5" width="100%" />
+</p>
+
 ---
 
 ### 📬 Contact
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nrnlx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-link-here)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurdanzanabaev@gmail.com)

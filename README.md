@@ -2,8 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ADD8&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Nurdan;Backend+Developer;Data+Engineering+Enthusiast;AI+Integration+Specialist" alt="Typing SVG" />
 </div>
 
+<br/>
+
 ### 📂 About Me
-I am a Backend Developer and Data Engineering enthusiast based in Astana. I specialize in building high-performance systems with **Go**, **Python**, and **Node.js**, with a strong focus on AI integration and scalable architecture.
+I am a Backend Developer and Data Engineering enthusiast. I specialize in building high-performance systems with **Go**, **Python**, and **Node.js**, with a strong focus on AI integration and scalable architecture.
 
 ---
 
@@ -19,32 +21,24 @@ I am a Backend Developer and Data Engineering enthusiast based in Astana. I spec
 ### 📊 Data Science & AI
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
-### 🛠️ Tools, OS & Infrastructure
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E9433F?style=for-the-badge&logo=ubuntu&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![Homebrew](https://img.shields.io/badge/Homebrew-FBB52B?style=for-the-badge&logo=Homebrew&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+---
 
-### 💻 Coding Platforms & IDEs
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black) ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GoLand](https://img.shields.io/badge/GoLand-000000?style=for-the-badge&logo=goland&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+### 🛠️ Development Ecosystem
+<p align="left">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=go,py,cpp,java,nodejs,mongodb,postgres,docker,githubactions,linux,apple,vscode,idea,postman&theme=dark" />
+</a>
+</p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 📈 GitHub Metrics
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nuran-command&theme=tokyonight&no-bg=true&margin-w=4" alt="trophies" />
-</p>
-
-### 📊 GitHub Growth & Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nuran-command&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nuran-command&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuran-command&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nuran-command&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 ---
 
 ### 📬 Contact
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nrnlx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-link-here)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)

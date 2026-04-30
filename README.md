@@ -63,6 +63,9 @@ I am a Backend Developer and Data Engineering enthusiast based in Astana. I spec
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nuran-command&theme=tokyonight&utcOffset=5" width="100%" />
 </p>
 
+### 📄 Resume
+[📝 View My Resume](https://drive.google.com/file/d/1m-U7pIKUxtxy76iw9wKG9Eh_W7isF4PN/view?usp=sharing)
+
 ---
 
 ### 📬 Contact
